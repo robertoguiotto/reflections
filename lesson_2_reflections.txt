@@ -2,4 +2,7 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: When you inizialize a repo, a new .git file is created. You want to do it in order to keep track of all the changes made to that dir.
 
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area is an intermediate stage, where you collect the file that will be inserted in a commit. it's like a sort of a launchpad
+
  
