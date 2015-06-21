@@ -5,4 +5,4 @@ A: When you inizialize a repo, a new .git file is created. You want to do it in 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area is an intermediate stage, where you collect the file that will be inserted in a commit. it's like a sort of a launchpad
 
- 
+Commento di test
