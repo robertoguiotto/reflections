@@ -11,5 +11,10 @@ A: You put into the staging area only the file that has a logcial change from th
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A:  When you want to make experimental features or pivotal changes.
 
+Q: How do the diagrams help you visualize the branch structure?
+A: They show me the visual structure off all the branches, which helps a lot to understand both the overall strutcure and the unreachable commits, used for experimental changes (which of course could became new branches as well)
+
+
+
 
 
