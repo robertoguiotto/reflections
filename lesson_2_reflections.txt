@@ -14,6 +14,10 @@ A:  When you want to make experimental features or pivotal changes.
 Q: How do the diagrams help you visualize the branch structure?
 A: They show me the visual structure off all the branches, which helps a lot to understand both the overall strutcure and the unreachable commits, used for experimental changes (which of course could became new branches as well)
 
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: THe result is that you ...merge two branch together. The representation in the diagram is related to the fact that every commit has its parent, and of course, is important in order to keep track of the overall development of the project.
+
+
 
 
 
