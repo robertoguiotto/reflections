@@ -4,4 +4,10 @@ A: When I need to share my work with others, both for educational and profession
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date w/ your remote repository?
 A: Because I want to be sure to publish only the commits that are both consolidated in terms of quality, and important to the project.
 
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Forks are sort of clone of GitHub repos; they are located on GitHub servers. I will use forks when I nedd to "remix" the code written by someone else.
+
+Clones are copy of GitHub repos that are located in a local machine. I will use clones when I need to edit code on my local machine on my projects, or anyway in other solo projects.
+
+Branches exists only inside a repository (both in a local machine and on GitHub) and are different sequences of commits. I will use branches in order to do bug-fixes or make experimental features
 
